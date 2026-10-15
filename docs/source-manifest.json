@@ -1,0 +1,78 @@
+{
+  "project": "Walrus — July 2025",
+  "captureTool": {
+    "name": "D-j-View",
+    "repository": "https://github.com/Nuel-osas/D-j-View",
+    "command": "npm run benchmark -- https://web.archive.org/web/20250714100230id_/https://www.walrus.xyz/ --out output/walrus-july2025-20261015 --max-pages 1",
+    "homepageResources": 73
+  },
+  "pages": [
+    {
+      "route": "/",
+      "title": "Walrus | Do more with your data",
+      "timestamp": "20250714100230",
+      "source": "https://web.archive.org/web/20250714100230/https://www.walrus.xyz/",
+      "style": "https://cdn.prod.website-files.com/6864f039b26f4afedada6bc5/css/walrus-new-f68f2fe207e8923d6b68002a5ce7.shared.a4f80c48c.css"
+    },
+    {
+      "route": "/about",
+      "title": "Walrus | About",
+      "timestamp": "20250714084929",
+      "source": "https://web.archive.org/web/20250714084929/https://www.walrus.xyz/about",
+      "style": "https://cdn.prod.website-files.com/6864f039b26f4afedada6bc5/css/walrus-new-f68f2fe207e8923d6b68002a5ce7.shared.a4f80c48c.css"
+    },
+    {
+      "route": "/blog",
+      "title": "Walrus | Blog Home",
+      "timestamp": "20250714075908",
+      "source": "https://web.archive.org/web/20250714075908/https://www.walrus.xyz/blog",
+      "style": "https://cdn.prod.website-files.com/6864f039b26f4afedada6bc5/css/walrus-new-f68f2fe207e8923d6b68002a5ce7.shared.a4f80c48c.css"
+    },
+    {
+      "route": "/community",
+      "title": "Walrus | How to get involved",
+      "timestamp": "20250726005750",
+      "source": "https://web.archive.org/web/20250726005750/https://www.walrus.xyz/community",
+      "style": "https://cdn.prod.website-files.com/6864f039b26f4afedada6bc5/css/walrus-new-f68f2fe207e8923d6b68002a5ce7.shared.946937084.css"
+    },
+    {
+      "route": "/get-started",
+      "title": "Walrus | Start building",
+      "timestamp": "20250726005750",
+      "source": "https://web.archive.org/web/20250726005750/https://www.walrus.xyz/get-started",
+      "style": "https://cdn.prod.website-files.com/6864f039b26f4afedada6bc5/css/walrus-new-f68f2fe207e8923d6b68002a5ce7.shared.946937084.css"
+    },
+    {
+      "route": "/network-release-schedule",
+      "title": "Network Release Schedule",
+      "timestamp": "20250714091224",
+      "source": "https://web.archive.org/web/20250714091224/https://www.walrus.xyz/network-release-schedule",
+      "style": "https://cdn.prod.website-files.com/6864f039b26f4afedada6bc5/css/walrus-new-f68f2fe207e8923d6b68002a5ce7.shared.a4f80c48c.css"
+    },
+    {
+      "route": "/news",
+      "title": "Walrus | Latest news and updates",
+      "timestamp": "20250714100153",
+      "source": "https://web.archive.org/web/20250714100153/https://www.walrus.xyz/news",
+      "style": "https://cdn.prod.website-files.com/6864f039b26f4afedada6bc5/css/walrus-new-f68f2fe207e8923d6b68002a5ce7.shared.a4f80c48c.css"
+    },
+    {
+      "route": "/rfp",
+      "title": "Walrus | Request for Proposals",
+      "timestamp": "20250717171317",
+      "source": "https://web.archive.org/web/20250717171317/https://www.walrus.xyz/rfp",
+      "style": "https://cdn.prod.website-files.com/6864f039b26f4afedada6bc5/css/walrus-new-f68f2fe207e8923d6b68002a5ce7.shared.a4f80c48c.css"
+    },
+    {
+      "route": "/wal-token",
+      "title": "Walrus | Token utility and distribution",
+      "timestamp": "20250714094503",
+      "source": "https://web.archive.org/web/20250714094503/https://www.walrus.xyz/wal-token?ref=blog.stakin.com",
+      "style": "https://cdn.prod.website-files.com/6864f039b26f4afedada6bc5/css/walrus-new-f68f2fe207e8923d6b68002a5ce7.shared.a4f80c48c.css"
+    }
+  ],
+  "animations": {
+    "source": "https://web.archive.org/web/20250726005741id_/https://assets.slater.app/slater/15937/42583.js?v=978151",
+    "note": "July 26 archive recovered after July 14 replay referenced an unavailable hosted script. Adapted to a disposable Next.js lifecycle; hosted services and page transitions replaced."
+  }
+}
